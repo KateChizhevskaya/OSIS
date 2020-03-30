@@ -1,0 +1,10 @@
+﻿  Lab3-tree.cpp
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Lab3-tree\Lab3-tree.cpp(228,24): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Lab3-tree\Lab3-tree.cpp(233,24): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Lab3-tree\Lab3-tree.cpp(194,18): warning C4244:  аргумент: преобразование "T" в "int", возможна потеря данных
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Lab3-tree\Lab3-tree.cpp(194,18): warning C4244:         with
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Lab3-tree\Lab3-tree.cpp(194,18): warning C4244:         [
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Lab3-tree\Lab3-tree.cpp(194,18): warning C4244:             T=double
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Lab3-tree\Lab3-tree.cpp(194,18): warning C4244:         ]
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Lab3-tree\Lab3-tree.cpp(236): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void clear<double>(tree_node<double> *)"
+  Lab3-tree.vcxproj -> C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab3\Lab3-tree\Debug\Lab3-tree.exe

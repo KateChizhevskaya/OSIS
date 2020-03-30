@@ -1,0 +1,5 @@
+﻿  Lab2.cpp
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab2\Lab2\Lab2\Lab2.cpp(55,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab2\Lab2\Lab2\Lab2.cpp(67,8): warning C4101:  inp: неиспользованная локальная переменная
+C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab2\Lab2\Lab2\Lab2.cpp(61): warning C4715:  FindFileByClaster: значение возвращается не при всех путях выполнения
+  Lab2.vcxproj -> C:\Users\echizhevskaya\univer\sp_sem6\OSIS\lab2\Lab2\Debug\Lab2.exe
